@@ -14,3 +14,5 @@ RUN npm install node-red-contrib-actionflows \
         # node to provide a simple timeswitch node to schedule daily on/off events
 	# https://tech.scargill.net/big-timer/
 	                        node-red-contrib-bigtimer
+	# https://flows.nodered.org/node/node-red-contrib-cron-plus			
+				node-red-contrib-cron-plus
