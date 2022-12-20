@@ -12,5 +12,5 @@ RUN npm install node-red-contrib-actionflows \
         # Is it that time yet? This node compares a given time to the current time.
 				node-red-node-timeswitch \
         # node to provide a simple timeswitch node to schedule daily on/off events
-	# https://flows.nodered.org/node/node-red-contrib-timerswitch
-	                        node-red-contrib-timerswitch
+	# https://tech.scargill.net/big-timer/
+	                        node-red-contrib-bigtimer
