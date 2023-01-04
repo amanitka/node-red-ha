@@ -17,4 +17,4 @@ RUN npm install node-red-contrib-actionflows \
         # https://flows.nodered.org/node/node-red-contrib-time-switch
 	node-red-contrib-time-switch \
 	# https://github.com/node-red-contrib-themes/theme-collection
-	https://github.com/node-red-contrib-themes/theme-collection
+	node-red-contrib-themes/theme-collection
